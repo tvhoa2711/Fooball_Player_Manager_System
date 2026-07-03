@@ -1,0 +1,6 @@
+PL0001|Nguyen Van Quyet|34|Vietnam|MF|10|15000000|Active|Regular
+PL0002|Nguyen Quang Hai|29|Vietnam|MF|19|25000000|Active|Star
+PL0003|Dang Van Lam|32|Vietnam|GK|35|18000000|Active|Regular
+PL0004|Nguyen Cong Phuong|31|Vietnam|FW|70|20000000|Inactive|Star
+PL0006|Hieu Nghia|19|VietNam|GK|50|20000000|Active|Regular
+PL0005|Tran Van Hoa|18|Viet Nam|GK|86|15000000|Active|Star
